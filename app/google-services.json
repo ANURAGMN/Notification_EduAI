@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780549909664",
+    "project_id": "inactivitydemo",
+    "storage_bucket": "inactivitydemo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780549909664:android:ee457144f7926299cd2dc5",
+        "android_client_info": {
+          "package_name": "com.example.inactivitydemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfXY1F-DPqEMjNAHNTqpVFl607qZvha0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
