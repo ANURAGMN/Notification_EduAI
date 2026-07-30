@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EduAI Notification Demo</string>
+
+    <string name="notification_prompt_title">Stay on track with gentle reminders</string>
+    <string name="notification_prompt_body_request">EduAI can send helpful updates about your streak, study reminders, and learning progress — only when something is worth your attention.\n\nYou can change or turn these off anytime in Settings.</string>
+    <string name="notification_prompt_body_settings">Notifications are currently turned off for EduAI. To see streak reminders, study alerts, and progress updates, enable them in your device Settings.\n\nTap below and switch Notifications on for this app.</string>
+    <string name="notification_prompt_footer">We never send ads or spam — just the updates you opt into.</string>
+    <string name="notification_prompt_enable">Enable notifications</string>
+    <string name="notification_prompt_open_settings">Open Settings</string>
+    <string name="notification_prompt_not_now">Not now</string>
+</resources>

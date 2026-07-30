@@ -1,0 +1,22 @@
+<resources>
+    <color name="warning_dot">#EF9F27</color>
+    <color name="warning_text">#854F0B</color>
+    <color name="warning_bg">#FAEEDA</color>
+
+    <color name="success_dot">#639922</color>
+    <color name="success_text">#27500A</color>
+    <color name="success_bg">#EAF3DE</color>
+
+    <color name="accent_dot">#378ADD</color>
+    <color name="accent_text">#0C447C</color>
+    <color name="accent_bg">#E6F1FB</color>
+
+    <color name="pro_dot">#7F77DD</color>
+    <color name="pro_text">#3C3489</color>
+    <color name="pro_bg">#EEEDFE</color>
+
+    <color name="text_primary">#1E1E1C</color>
+    <color name="text_secondary">#5F5E5A</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="page_bg">#F7F6F2</color>
+</resources>

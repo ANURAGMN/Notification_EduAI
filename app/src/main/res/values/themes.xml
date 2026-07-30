@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.NotificationDemo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_dot</item>
+        <item name="colorPrimaryVariant">@color/accent_text</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:windowBackground">@color/page_bg</item>
+    </style>
+</resources>
